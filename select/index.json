@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "食キング",
+  "base_artist": "niKu",
+  "createdAt": "2026-03-15T15:04:00.478856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "食キング",
+      "artist": "niKu",
+      "has_synced": true,
+      "path": "select/01_食キング_niKu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "食キング",
+      "artist": "niKu",
+      "has_synced": false,
+      "path": "select/pl_01_食キング_niKu.txt"
+    }
+  ]
+}
